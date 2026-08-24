@@ -1,40 +1,143 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://www.dreamstime.com/illustration/boy-coding.html"  />
-</div>
+# 👋 Hey, I'm Sangam Chauhan
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=B.Tech+CSE+Student;Backend+Developer+in+Progress;AI+%26+Tech+Explorer;Always+Building+Something+Cool" />
+</p>
 
-<div data-importer="socials" align="center">
-  <a href="https://x.com/kabutarsangam" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+<p align="center">
+  <a href="https://github.com/sangamchauhan032-prog">
+    <img src="https://img.shields.io/github/followers/sangamchauhan032-prog?style=for-the-badge&logo=github"/>
   </a>
-  <a href="https://www.linkedin.com/in/sangam-chauhan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-</div>
 
-###
+  <img src="https://komarev.com/ghpvc/?username=sangamchauhan032-prog&style=for-the-badge"/>
+</p>
 
-<h1 data-importer="text" align="center">hey there 👋 Welcome to my profile hope you liked it .</h1>
+---
 
-###
+## 👨‍💻 About Me
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+```cpp
+class Sangam{
+public:
+    string role = "B.Tech CSE Student";
 
-###
+    vector<string> interests = {
+      "Backend Development",
+      "Artificial Intelligence",
+      "Open Source",
+      "Hackathons"
+    };
 
-<p data-importer="text" align="left">I'm Sangam Chauhan II 19 I Tech II Exploring.<br><br>- 🔭 Building Projects<br>- 📚 I'm currently learning <br>- ⚡  Ready to collab and learn.</p>
+    string motto = "Learn → Build → Repeat";
+};
+```
 
-###
+- 🚀 Building practical projects
+- 🌱 Learning C++, Python, DSA & Backend
+- 💡 Interested in AI, Software Engineering & Defence Tech
+- 🤝 Open for collaborations
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+---
 
-###
+## 🛠 Tech Stack
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,git,github,vscode,linux,mysql,nodejs"/>
+</p>
 
-###
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sangamchauhan032-prog&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sangamchauhan032-prog&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sangamchauhan032-prog&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sangamchauhan032-prog&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=sangamchauhan032-prog&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# ⭐ Featured Project
+
+## 🆘 ResQChain
+
+AI-powered disaster relief supply-chain management platform.
+
+### Features
+
+- 📍 Real-time disaster dashboard
+- 🤖 AI demand prediction
+- 📦 Resource management
+- 🚚 Relief transportation tracking
+- 🏥 Relief centre management
+
+---
+
+# 📚 Currently Learning
+
+- C++ (OOP + STL + DSA)
+- Backend Development
+- JavaScript
+- Node.js
+- Databases
+- APIs
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://x.com/kabutarsangam">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sangam-chauhan/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://github.com/sangamchauhan032-prog">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+</p>
